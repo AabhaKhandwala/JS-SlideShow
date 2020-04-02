@@ -36,7 +36,6 @@ var slideShow = {
 
 
 
-
 slideShow.play();
 
 
